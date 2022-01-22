@@ -40,7 +40,14 @@ const myStack = {
 <h2><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h2>
 <img src="./img/stack.png" alt="Stack" width="100%"/>
 
-<h2><strong>:star: INDIVIDUAL FULLSTACK PROJECT (COUNTRIES)</strong></h2>
+<h2><strong>:code: INDIVIDUAL FULLSTACK PROJECT (COUNTRIES)</strong></h2>
+<img src="./img/landing.png" alt="landing"/>
+<img src="./img/loading" alt="loading"/>
+<img src="./img/home.png" alt="home"/>
+<img src="./img/country-details.png" alt="country-details"/>
+<img src="./img/create.png" alt="create"/>
+
+<h2><strong>SEE PROJECT ON VIDEO</strong></h2>
 <a href="https://youtu.be/z0PxtOxrJWg" alt="countries-youtube" target="_blank"><img src="./img/youtube.png" height="20"/></a>
 <a href="https://vimeo.com/user158728760/review/668887098/b0214389f8" alt="countries-vimeo" target="_blank"><img src="./img/vimeo.png" height="25"/></a>
 
@@ -52,14 +59,11 @@ const myStack = {
 <h2>:pushpin: NETWORKS</h2>
 <a href="https://www.linkedin.com/in/fernandolba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-</br>
-</br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandolba&show_icons=true&theme=great-gatsby)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/fernandolba/github-readme-stats)
 
 <h2>:eyes: HOW MANY VISITS I HAVE</h2>
 <p align="left"><img src="https://profile-counter.glitch.me/{fernandobarrios}/count.svg" alt="Fernando Barrios :: Visitor's Count" /></p>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandolba&show_icons=true&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/fernandolba/github-readme-stats)
