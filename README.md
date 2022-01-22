@@ -35,7 +35,7 @@ const myStack = {
 - 🌱 I’m currently learning <strong>Material UI</strong> for the Frontend...
 - 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
-- 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">Check out my CV Online</a>
+- 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">See more about me</a>
 
 <h2><strong>💻 LANGUAGES AND TECHNOLOGIES STACK</strong></h2>
 <img src="./img/stack.png" alt="Stack" width="100%"/>
