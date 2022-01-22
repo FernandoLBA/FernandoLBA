@@ -35,6 +35,7 @@ const myStack = {
 - 🌱 I’m currently learning <strong>Material UI</strong> for the Frontend...
 - 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
+- ⚡ <a href="https://fernando-barrios.netlify.app/" target="_blank">CV Online</a>
 
 <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
 <img src="./img/stack.png" alt="Stack" width="100%"/>
@@ -43,11 +44,11 @@ const myStack = {
 <div>
   <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<a href="https://fernando-barrios.netlify.app/" target="_blank">Check out my cv-portfolio web</a>
 
 <h3>:pushpin: NETWORKS</h3>
 <a href="https://www.linkedin.com/in/fernandolba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+</br>
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandolba&show_icons=true&theme=great-gatsby)
