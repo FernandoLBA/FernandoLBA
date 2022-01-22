@@ -50,7 +50,7 @@ const myStack = {
       <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <p>JavaScript</p>
     </div>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <!-- <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <p>HTML</p>
     </div>
@@ -81,9 +81,9 @@ const myStack = {
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="Postgres" height="30" src="./img/postgresql-original.svg">
       <p>Postgres</p>
-    </div>
+    </div> -->
   </div>
-  <div style="display: inline_block">
+  <!-- <div style="display: inline_block">
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="Jest" height="30" src="./img/jest-plain.svg">
       <p>Jest</p>
@@ -100,7 +100,7 @@ const myStack = {
       <img src="./img/vscode.png" alt="VSCode" height="30" />
       <p>VSCode</p>
     </div>
-  </div>
+  </div> -->
 
   <h3><strong>📫 HOW TO REACH ME</strong></h3>
   <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
