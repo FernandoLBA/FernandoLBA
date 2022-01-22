@@ -5,7 +5,7 @@
     </a>
   </h1>
 </div> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EB36&size=40&vCenter=true&lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EB36&size=40&vCenter=true&width=600&height=80&lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!)](https://git.io/typing-svg)
 
 <h3><strong>:star: ABOUT ME</strong></h3>
 <p><strong>I am a Full-Stack Developer</strong>, with <strong>2 years of experience in the Development of Web APPs, Prototyping, Designing User Interfaces and coding for the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
