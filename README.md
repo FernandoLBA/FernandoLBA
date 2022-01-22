@@ -44,7 +44,7 @@ const myStack = {
 
 <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
 <img src="./img/stack.png" alt="Stack"/>
-<div style="display: flex;">
+<div style="display: inline_block;">
   <div width="50">
     <img src="./img/javascript-plain.svg" alt="javascript" height="30"/>
     <p>JavaScript</p>
