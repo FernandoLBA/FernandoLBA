@@ -42,7 +42,6 @@ const myStack = {
 - 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
 
-
 <div> 
   <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
 
@@ -83,6 +82,8 @@ const myStack = {
       <img align="center" alt="Postgres" height="30" src="./img/postgresql-original.svg">
       <p>Postgres</p>
     </div>
+  </div>
+  <div style="display: inline_block">
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="Jest" height="30" src="./img/jest-plain.svg">
       <p>Jest</p>
