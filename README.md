@@ -1,26 +1,37 @@
-<h1 align="center">
+<h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;Welcome+to+my+repo!&center=true&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!&center=true&size=35">
   </a>
 </h1>
 
-<h2>My name  is Fernando Barrios, I am a Fullstack developer.</h2>
+<h3><strong>ABOUT ME</strong></h3>
+<p><strong>I am a Full-Stack Developer</strong>, with <strong>2 years of experience in the Development of Web APPs, Prototyping, Designing User Interfaces and coding for the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java],
-   technologies: {
+  pronouns: "he" | "him",
+  code: ["Javascript", "HTML", "CSS", "Java"],
+  technologies: [
+    {
       frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI"]
+        javascript: ["React", "Redux"],
+        css: ["Styled Components", "CSS Modules"],
       },
+    },
+    {
       backEnd: {
-         js: ["Node", "Express"]
+        javascript: ["Node", "Express", "Sequelize"],
       },
-      databases: ["MongoDB", "PostgreSQL"],
-   },
-   currentOccupation: ["Tech Instructor at Henry"],
+      databases: ["PostgreSQL"],
+    },
+    {
+      Others: {
+        prototyping: ["Figma", "Adobe XD"],
+        design: ["Adobe Illustrator", "Photoshop"],
+      },
+    },
+  ],
+  currentStatus: ["✨Looking for a Job✨"],
 };
 ```
 
@@ -28,12 +39,11 @@ const aboutMe = {
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working in a Ecommerce Fullstack Project...
+- 🌱 I’m currently learning Material UI for the Frontend...
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: **fbarrios.pyc@gmail.com**
+<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ...
-
