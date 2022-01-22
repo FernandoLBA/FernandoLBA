@@ -35,19 +35,19 @@ const myStack = {
 - 🌱 I’m currently learning <strong>Material UI</strong> for the Frontend...
 - 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
-- ⚡ <a href="https://fernando-barrios.netlify.app/" target="_blank">CV Online</a>
+- 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">Check out my CV Online</a>
 
-<h2><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h2>
+<h2><strong>💻 LANGUAGES AND TECHNOLOGIES STACK</strong></h2>
 <img src="./img/stack.png" alt="Stack" width="100%"/>
 
-<h2><strong>💼 INDIVIDUAL FULLSTACK PROJECT (COUNTRIES)</strong></h2>
+<h2><strong>🚀 INDIVIDUAL FULLSTACK PROJECT (COUNTRIES)</strong></h2>
 <img src="./img/landing.png" alt="landing"/>
 <img src="./img/loading.png" alt="loading"/>
 <img src="./img/home.png" alt="home"/>
 <img src="./img/country-details.png" alt="country-details"/>
 <img src="./img/create.png" alt="create"/>
 
-<h4><strong>:eyes: SEE PROJECT ON VIDEO</strong></h4>
+<h4><strong>📹 SEE COUNTRIES PROJECT ON VIDEO</strong></h4>
 <a href="https://youtu.be/z0PxtOxrJWg" alt="countries-youtube" target="_blank"><img src="./img/youtube.png" height="20"/></a>
 <a href="https://vimeo.com/user158728760/review/668887098/b0214389f8" alt="countries-vimeo" target="_blank"><img src="./img/vimeo.png" height="25"/></a>
 
@@ -59,11 +59,11 @@ const myStack = {
 <h2>:pushpin: NETWORKS</h2>
 <a href="https://www.linkedin.com/in/fernandolba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-
 <h2>:eyes: HOW MANY VISITS I HAVE</h2>
 <p align="left"><img src="https://profile-counter.glitch.me/{fernandobarrios}/count.svg" alt="Fernando Barrios :: Visitor's Count" /></p>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandolba&show_icons=true&theme=great-gatsby)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/fernandolba/github-readme-stats)
