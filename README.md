@@ -53,5 +53,7 @@ const myStack = {
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
+<a href="https://fernando-barrios.netlify.app/" target="_blank">:web: VISIT MY CV-PORTFOLIO HERE</a>
+
 <h3>:eyes: HOW MANY VISITS I HAVE</h3>
 <p align="left"><img src="https://profile-counter.glitch.me/{fernandobarrios}/count.svg" alt="Fernando Barrios :: Visitor's Count" /></p>
