@@ -56,5 +56,7 @@ const myStack = {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandolba&show_icons=true&theme=great-gatsby)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/fernandolba/github-readme-stats)
+
 <h3>:eyes: HOW MANY VISITS I HAVE</h3>
 <p align="left"><img src="https://profile-counter.glitch.me/{fernandobarrios}/count.svg" alt="Fernando Barrios :: Visitor's Count" /></p>
