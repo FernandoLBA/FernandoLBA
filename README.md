@@ -47,14 +47,14 @@ const myStack = {
 
 <h3><strong>📫 HOW TO REACH ME</strong></h3>
 <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://fernando-barrios.netlify.app/" target="_blank">:web: VISIT MY CV-PORTFOLIO HERE</a>
+<a href="https://fernando-barrios.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h3>:pushpin: NETWORKS</h3>
 <a href="https://www.linkedin.com/in/fernandolba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandolba&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandolba&show_icons=true&bg_color=#000000&title_color=#f7eb36&text_color=#ffffff)
 
 <h3>:eyes: HOW MANY VISITS I HAVE</h3>
 <p align="left"><img src="https://profile-counter.glitch.me/{fernandobarrios}/count.svg" alt="Fernando Barrios :: Visitor's Count" /></p>
