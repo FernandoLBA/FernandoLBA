@@ -1,6 +1,7 @@
 <h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!&center=true&size=35">
+  <!-- <a href="https://git.io/typing-svg"> -->
+  <a href="https://fernando-barrios.netlify.app/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!&center=true&size=35">
   </a>
 </h1>
 
@@ -8,8 +9,7 @@
 <p><strong>I am a Full-Stack Developer</strong>, with <strong>2 years of experience in the Development of Web APPs, Prototyping, Designing User Interfaces and coding for the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
 
 ```javascript
-const aboutMe = {
-  pronouns: "he" | "him",
+const myStack = {
   code: ["Javascript", "HTML", "CSS", "Java"],
   technologies: [
     {
@@ -32,18 +32,22 @@ const aboutMe = {
     },
   ],
   currentStatus: ["✨Looking for a Job✨"],
+  locationPreferences: "✨Fully Remote✨"
 };
 ```
 
-**FernandoLBA/FernandoLBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working in a Ecommerce Fullstack Project...
-- 🌱 I’m currently learning Material UI for the Frontend...
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ...
+- 🔭 I’m currently working on a Ecommerce Fullstack Project...
+- 🌱 I’m currently learning <strong>Material UI</strong> for the Frontend...
+- 💬 Ask me about JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...
 - 📫 How to reach me: **fbarrios.pyc@gmail.com**
+- 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
+
+
+
+
+
+
+<!-- - ⚡ Fun fact: ... -->
+<!-- - 🤔 I’m looking for help with ... --> -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: ...
+<!-- - 👯 I’m looking to collaborate on ...
