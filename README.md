@@ -44,23 +44,13 @@ const myStack = {
 
 <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
 <img src="./img/stack.png" alt="Stack"/>
-<div style="display: inline_block;">
-  <div width="50">
-    <img src="./img/javascript-plain.svg" alt="javascript" height="30"/>
-    <p>JavaScript</p>
-  </div>
-  <div width="50">
-    <img src="./img/javascript-plain.svg" alt="javascript" height="30"/>
-    <p>JavaScript</p>
-  </div>
-</div>
 
 <h3><strong>📫 HOW TO REACH ME</strong></h3>
 <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <h3>:pushpin: NETWORKS</h3>
 <a href="https://www.linkedin.com/in/fernandolba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.torre.com/fernandolba/" target="_blank"><img src="./img/torre.png"></a>
+<a href="https://www.torre.com/fernandolba/" target="_blank"><img src="./img/torre.png" height="40"/></a>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
