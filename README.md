@@ -39,16 +39,30 @@ const myStack = {
 - 🔭 I’m currently working on a <strong>Ecommerce Fullstack Project...</strong>
 - 🌱 I’m currently learning <strong>Material UI</strong> for the Frontend...
 - 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
-- 📫 How to reach me: **fbarrios.pyc@gmail.com**
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
 
 <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
 <img src="./img/stack.png" />
 
-<h3><strong>Languages and technologies</strong></h3>
+<h3><strong>:star:HOW TO REACH ME</strong></h3>
 
+<div> 
+  <a href="https://www.linkedin.com/in/fernandolba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <!-- ## :pushpin: Others
+  
+  
+  <a href = "https://www.hackerrank.com/EmmaDev1981"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
+ <a href = "https://www.codewars.com/users/EmmaDev1981"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
+   <a href = "https://es.stackoverflow.com/users/230177/emmadev1981"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> -->
+ 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-
+<!-- - 📫 How to reach me: **fbarrios.pyc@gmail.com** -->
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
