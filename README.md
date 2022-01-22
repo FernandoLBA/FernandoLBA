@@ -43,7 +43,7 @@ const myStack = {
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
 
 <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
-<img src="./img/stack.png" alt="Stack"/>
+<img src="./img/stack.png" alt="Stack" width="100%"/>
 
 <h3><strong>📫 HOW TO REACH ME</strong></h3>
 <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -54,4 +54,4 @@ const myStack = {
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <h3>:eyes: HOW MANY VISITS I HAVE</h3>
-<p align="left"><img src="https://profile-counter.glitch.me/{fernandobarrios}/count.svg" alt="Fernando Barios :: Visitor's Count" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/{fernandobarrios}/count.svg" alt="Fernando Barrios :: Visitor's Count" /></p>
