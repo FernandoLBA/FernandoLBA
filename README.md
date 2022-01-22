@@ -1,9 +1,10 @@
-<h1 align="left">
-  <!-- <a href="https://git.io/typing-svg"> -->
-  <a href="https://fernando-barrios.netlify.app/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!&center=true&size=35">
-  </a>
-</h1>
+<div style="background: yellow">
+  <h1 align="left">
+    <a href="https://fernando-barrios.netlify.app/">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!&center=true&size=35">
+    </a>
+  </h1>
+</div>
 
 <h3><strong>:star: ABOUT ME</strong></h3>
 <p><strong>I am a Full-Stack Developer</strong>, with <strong>2 years of experience in the Development of Web APPs, Prototyping, Designing User Interfaces and coding for the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
@@ -36,15 +37,15 @@ const myStack = {
 };
 ```
 
-- 🔭 I’m currently working on a <strong>Ecommerce Fullstack Project...</strong>
-- 🌱 I’m currently learning <strong>Material UI</strong> for the Frontend...
-- 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
-- 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
-
-<h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
-<img src="./img/stack.png" />
-
 <div> 
+  - 🔭 I’m currently working on a <strong>Ecommerce Fullstack Project...</strong>
+  - 🌱 I’m currently learning <strong>Material UI</strong> for the Frontend...
+  - 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
+  - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
+
+  <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
+  <img src="./img/stack.png" />
+
   <h3><strong>📫 HOW TO REACH ME</strong></h3>
   <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
@@ -54,7 +55,7 @@ const myStack = {
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
   <h3>:eyes: HOW MANY VISITS I HAVE</h3>
-  <p align="center"><img src="https://profile-counter.glitch.me/{bryancpineda}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
+  <p align="left"><img src="https://profile-counter.glitch.me/{bryancpineda}/count.svg" alt="bryancpineda :: Visitor's Count" /></p>
 </div>
 
   <!-- <a href = "https://www.hackerrank.com/EmmaDev1981"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
