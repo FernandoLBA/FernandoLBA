@@ -43,58 +43,58 @@ const myStack = {
 
 <div> 
   <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
-  <div style="display: flex; justify-content: space-between; background-color: black; padding: 20px">
+  <div style="display: block;>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <p style="color: dodgerblue;">JavaScript</p>
+      <p>JavaScript</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <p style="color: dodgerblue;">HTML</p>
+      <p>HTML</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <p style="color: dodgerblue;">CSS</p>
+      <p>CSS</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <p style="color: dodgerblue;">React</p>
+      <p>React</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="Redux" height="30" src="./img/redux-original.svg">
-      <p style="color: dodgerblue;">Redux</p>
+      <p>Redux</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="Node" height="30" src="./img/nodejs-original.svg">
-      <p style="color: dodgerblue;">Node</p>
+      <p>Node</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="Express" height="30" src="./img/expressjs.svg">
-      <p style="color: dodgerBlue">Express</p>
+      <p>Express</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="Sequelize" height="30" src="./img/sequelize-original.svg">
-      <p style="color: dodgerblue;">Sequelize</p>
+      <p>Sequelize</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="Postgres" height="30" src="./img/postgresql-original.svg">
-      <p style="color: dodgerblue;">Postgres</p>
+      <p>Postgres</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="Jest" height="30" src="./img/jest-plain.svg">
-      <p style="color: dodgerblue;">Jest</p>
+      <p>Jest</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img src="./img/git.png" alt="Git" height="30" />
-      <p style="color: dodgerblue;">Git</p>
+      <p>Git</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img src="./img/github.svg" alt="GitHub" height="30" />
-      <p style="color: dodgerblue;">GitHub</p>
+      <p>GitHub</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img src="./img/vscode.png" alt="VSCode" height="30" />
-      <p style="color: dodgerblue;">VSCode</p>
+      <p>VSCode</p>
     </div>
   </div>
 
