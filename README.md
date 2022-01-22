@@ -47,6 +47,7 @@ const myStack = {
   <img src="./img/stack.png" alt="Stack"/>
   <div>
   <img src="./img/javascript-plain.svg" height="30"/>
+  <p>JavaScript</p>
   </div>
 
   <h3><strong>📫 HOW TO REACH ME</strong></h3>
