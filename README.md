@@ -43,19 +43,59 @@ const myStack = {
 
 <div> 
   <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
-  <img src="./img/stack.png" />
-  <div style="display: inline_block"><br>
+  <div style="display: flex; justify-content: space-between; background: black; padding: 20px">
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <p>JavaScript</p>
+      <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <p style="color: dodgerblue;">JavaScript</p>
     </div>
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <p style="color: dodgerblue;">HTML</p>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <p style="color: dodgerblue;">CSS</p>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <p style="color: dodgerblue;">React</p>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img align="center" alt="Redux" height="30" width="40" src="./img/redux-original.svg">
+      <p style="color: dodgerblue;">Redux</p>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img align="center" alt="Node" height="30" width="40" src="./img/nodejs-original.svg">
+      <p style="color: dodgerblue;">Node</p>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img align="center" alt="Express" height="30" width="40" src="./img/expressjs.svg">
+      <p style="color: dodgerBlue">Express</p>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img align="center" alt="Sequelize" height="30" width="40" src="./img/sequelize-original.svg">
+      <p style="color: dodgerblue;">Sequelize</p>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img align="center" alt="Postgres" height="30" width="40" src="./img/postgresql-original.svg">
+      <p style="color: dodgerblue;">Postgres</p>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img align="center" alt="Jest" height="30" width="40" src="./img/jest-plain.svg">
+      <p style="color: dodgerblue;">Jest</p>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img src="./img/git.png" alt="Git" height="30" width="40"/>
+      <p style="color: dodgerblue;">Git</p>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img src="./img/github.svg" alt="GitHub" height="30" />
+      <p style="color: dodgerblue;">GitHub</p>
+    </div>
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <img src="./img/vscode.png" alt="VSCode" height="30" />
+      <p style="color: dodgerblue;">VSCode</p>
+    </div>
   </div>
 
   <h3><strong>📫 HOW TO REACH ME</strong></h3>
