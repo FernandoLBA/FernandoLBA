@@ -1,10 +1,3 @@
-<!-- <div>
-  <h1 align="left">
-    <a href="https://fernando-barrios.netlify.app/" target="_blank">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!&center=true&size=35">
-    </a>
-  </h1>
-</div> -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EB36&size=40&vCenter=true&width=600&height=80&lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!)](https://git.io/typing-svg)
 
 <h3><strong>:star: ABOUT ME</strong></h3>
@@ -48,11 +41,12 @@ const myStack = {
 
 <h3><strong>📫 HOW TO REACH ME</strong></h3>
 <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://fernando-barrios.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://fernando-barrios.netlify.app/" target="_blank">Check out my cv-portfolio web</a>
 
 <h3>:pushpin: NETWORKS</h3>
 <a href="https://www.linkedin.com/in/fernandolba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandolba&show_icons=true&theme=great-gatsby)
 
