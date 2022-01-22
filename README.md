@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3><strong>ABOUT ME</strong></h3>
+<h3><strong>😄 ABOUT ME</strong></h3>
 <p><strong>I am a Full-Stack Developer</strong>, with <strong>2 years of experience in the Development of Web APPs, Prototyping, Designing User Interfaces and coding for the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
 
 ```javascript
@@ -32,7 +32,7 @@ const myStack = {
     },
   ],
   currentStatus: ["✨Looking for a Job✨"],
-  locationPreferences: "✨Fully Remote✨"
+  locationPreferences: ["✨Fully Remote✨"],
 };
 ```
 
@@ -42,7 +42,7 @@ const myStack = {
 - 📫 How to reach me: **fbarrios.pyc@gmail.com**
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
 
-<h3><strong>🛠 Languages and Technologies Stack</strong></h3>
+<h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
 <img src="./img/stack.png" />
 
 <h3><strong>Languages and technologies</strong></h3>
