@@ -1,3 +1,4 @@
+```html
 <div>
   <h1 align="left">
     <a href="https://fernando-barrios.netlify.app/">
@@ -8,7 +9,7 @@
 
 <h3><strong>:star: ABOUT ME</strong></h3>
 <p><strong>I am a Full-Stack Developer</strong>, with <strong>2 years of experience in the Development of Web APPs, Prototyping, Designing User Interfaces and coding for the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
-
+```
 ```javascript
 const myStack = {
   code: ["Javascript", "HTML", "CSS", "Java"],
@@ -36,15 +37,17 @@ const myStack = {
   locationPreferences: ["✨Fully Remote✨"],
 };
 ```
-  - 🔭 I’m currently working on a <strong>Ecommerce Fullstack Project...</strong>
-  - 🌱 I’m currently learning <strong>Material UI</strong> for the Frontend...
-  - 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
-  - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
 
+- 🔭 I’m currently working on a <strong>Ecommerce Fullstack Project...</strong>
+- 🌱 I’m currently learning <strong>Material UI</strong> for the Frontend...
+- 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
+- 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
+
+```html
 <div> 
   <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
 
-  <div style="display: inline-block;>
+  <div style="display: inline_block;>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <p>JavaScript</p>
@@ -111,7 +114,7 @@ const myStack = {
   <h3>:eyes: HOW MANY VISITS I HAVE</h3>
   <p align="left"><img src="https://profile-counter.glitch.me/{fernandobarrios}/count.svg" alt="Fernando Barios :: Visitor's Count" /></p>
 </div>
-
+```
   <!-- <a href = "https://www.hackerrank.com/EmmaDev1981"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
  <a href = "https://www.codewars.com/users/EmmaDev1981"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
    <a href = "https://es.stackoverflow.com/users/230177/emmadev1981"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> -->
