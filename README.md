@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h3><strong>😄 ABOUT ME</strong></h3>
+<h3><strong>:star: ABOUT ME</strong></h3>
 <p><strong>I am a Full-Stack Developer</strong>, with <strong>2 years of experience in the Development of Web APPs, Prototyping, Designing User Interfaces and coding for the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
 
 ```javascript
@@ -44,24 +44,19 @@ const myStack = {
 <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
 <img src="./img/stack.png" />
 
-<h3><strong>:star:HOW TO REACH ME</strong></h3>
-
 <div> 
-  <a href="https://www.linkedin.com/in/fernandolba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <h3><strong>📫 HOW TO REACH ME</strong></h3>
   <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  <!-- ## :pushpin: Others
+  <h3>:pushpin: NETWORKS</h3>
+  <a href="https://www.linkedin.com/in/fernandolba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
-  
-  <a href = "https://www.hackerrank.com/EmmaDev1981"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
- <a href = "https://www.codewars.com/users/EmmaDev1981"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
-   <a href = "https://es.stackoverflow.com/users/230177/emmadev1981"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> -->
- 
- 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
+  <!-- <a href = "https://www.hackerrank.com/EmmaDev1981"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
+ <a href = "https://www.codewars.com/users/EmmaDev1981"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
+   <a href = "https://es.stackoverflow.com/users/230177/emmadev1981"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a> --> -->
 <!-- - 📫 How to reach me: **fbarrios.pyc@gmail.com** -->
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 🤔 I’m looking for help with ... -->
