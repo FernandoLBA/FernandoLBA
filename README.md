@@ -4,7 +4,26 @@
   </a>
 </h1>
 
-<!--
+<h2>My name  is Fernando Barrios, I am a Fullstack developer.</h2>
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Java],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Redux"],
+         css: ["Bootstrap", "Material UI"]
+      },
+      backEnd: {
+         js: ["Node", "Express"]
+      },
+      databases: ["MongoDB", "PostgreSQL"],
+   },
+   currentOccupation: ["Tech Instructor at Henry"],
+};
+```
+
 **FernandoLBA/FernandoLBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +36,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
