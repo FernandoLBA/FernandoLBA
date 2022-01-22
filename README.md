@@ -47,7 +47,7 @@ const myStack = {
 <img src="./img/country-details.png" alt="country-details"/>
 <img src="./img/create.png" alt="create"/>
 
-<h4><strong>📹 SEE COUNTRIES PROJECT ON VIDEO</strong></h4>
+<h2><strong>📹 SEE COUNTRIES PROJECT ON VIDEO</strong></h2>
 <a href="https://youtu.be/z0PxtOxrJWg" alt="countries-youtube" target="_blank"><img src="./img/youtube.png" height="20"/></a>
 <a href="https://vimeo.com/user158728760/review/668887098/b0214389f8" alt="countries-vimeo" target="_blank"><img src="./img/vimeo.png" height="25"/></a>
 
