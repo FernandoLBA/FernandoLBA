@@ -36,18 +36,20 @@ const myStack = {
 };
 ```
 
-- 🔭 I’m currently working on a Ecommerce Fullstack Project...
+- 🔭 I’m currently working on a <strong>Ecommerce Fullstack Project...</strong>
 - 🌱 I’m currently learning <strong>Material UI</strong> for the Frontend...
-- 💬 Ask me about JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...
+- 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
 - 📫 How to reach me: **fbarrios.pyc@gmail.com**
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
 
+<h3><strong>🛠 Languages and Technologies Stack</strong></h3>
+<img src="./img/stack.png" />
 
-
+<h3><strong>Languages and technologies</strong></h3>
 
 
 
 <!-- - ⚡ Fun fact: ... -->
-<!-- - 🤔 I’m looking for help with ... --> -->
+<!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - 👯 I’m looking to collaborate on ...
