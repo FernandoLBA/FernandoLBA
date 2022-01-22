@@ -46,10 +46,8 @@ const myStack = {
   <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
 
   <div style="display: inline_block;>
-      <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <p>JavaScript</p>
-      <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <p>HTML</p>
+      <img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNDgiIGhlaWdodD0iNDgiCnZpZXdCb3g9IjAgMCA0OCA0OCIKc3R5bGU9IiBmaWxsOiMwMDAwMDA7Ij48cGF0aCBmaWxsPSIjZmZkNjAwIiBkPSJNNiw0MlY2aDM2djM2SDZ6Ij48L3BhdGg+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAxIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMy4zIiBkPSJNMjMuNzgzLDIyLjM1MnY5LjgxOSBjMCwzLjc2NC00LjM4LDQuMDIyLTYuMjgzLDAuODAyIj48L3BhdGg+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAxIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMy4zIiBkPSJNMzQuNjksMjUuMzQzIGMtMS43MzktMi43MjctNS42NzQtMi4zNDUtNS44NCwwLjU1OGMtMC4yMTQsMy43NTcsNi43NjgsMi45MzgsNi4yNDcsNy4xMDdjLTAuMzY1LDIuOTItNC44NzQsMy44NTgtNy4xOTMtMC4wNjUiPjwvcGF0aD48L3N2Zz4="/>
+      <!-- <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> -->
     <!-- <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <p>CSS</p>
