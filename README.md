@@ -40,7 +40,9 @@ const myStack = {
 <img src="./img/stack.png" alt="Stack" width="100%"/>
 
 <h3><strong>📫 HOW TO REACH ME</strong></h3>
-<a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
+  <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 <a href="https://fernando-barrios.netlify.app/" target="_blank">Check out my cv-portfolio web</a>
 
 <h3>:pushpin: NETWORKS</h3>
