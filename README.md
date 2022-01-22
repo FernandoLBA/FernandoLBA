@@ -45,56 +45,7 @@ const myStack = {
 <div> 
   <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
 
-  <div style="display: inline_block;>
-      <img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNDgiIGhlaWdodD0iNDgiCnZpZXdCb3g9IjAgMCA0OCA0OCIKc3R5bGU9IiBmaWxsOiMwMDAwMDA7Ij48cGF0aCBmaWxsPSIjZmZkNjAwIiBkPSJNNiw0MlY2aDM2djM2SDZ6Ij48L3BhdGg+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAxIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMy4zIiBkPSJNMjMuNzgzLDIyLjM1MnY5LjgxOSBjMCwzLjc2NC00LjM4LDQuMDIyLTYuMjgzLDAuODAyIj48L3BhdGg+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAxIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMy4zIiBkPSJNMzQuNjksMjUuMzQzIGMtMS43MzktMi43MjctNS42NzQtMi4zNDUtNS44NCwwLjU1OGMtMC4yMTQsMy43NTcsNi43NjgsMi45MzgsNi4yNDcsNy4xMDdjLTAuMzY1LDIuOTItNC44NzQsMy44NTgtNy4xOTMtMC4wNjUiPjwvcGF0aD48L3N2Zz4="/>
-      <!-- <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /> -->
-    <!-- <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <p>CSS</p>
-    </div>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <p>React</p>
-    </div>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Redux" height="30" src="./img/redux-original.svg">
-      <p>Redux</p>
-    </div>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Node" height="30" src="./img/nodejs-original.svg">
-      <p>Node</p>
-    </div>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Express" height="30" src="./img/expressjs.svg">
-      <p>Express</p>
-    </div>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Sequelize" height="30" src="./img/sequelize-original.svg">
-      <p>Sequelize</p>
-    </div>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Postgres" height="30" src="./img/postgresql-original.svg">
-      <p>Postgres</p>
-    </div> -->
-  </div>
-  <!-- <div style="display: inline_block">
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Jest" height="30" src="./img/jest-plain.svg">
-      <p>Jest</p>
-    </div>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./img/git.png" alt="Git" height="30" />
-      <p>Git</p>
-    </div>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./img/github.svg" alt="GitHub" height="30" />
-      <p>GitHub</p>
-    </div>
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./img/vscode.png" alt="VSCode" height="30" />
-      <p>VSCode</p>
-    </div>
-  </div> -->
+  <img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNDgiIGhlaWdodD0iNDgiCnZpZXdCb3g9IjAgMCA0OCA0OCIKc3R5bGU9IiBmaWxsOiMwMDAwMDA7Ij48cGF0aCBmaWxsPSIjZmZkNjAwIiBkPSJNNiw0MlY2aDM2djM2SDZ6Ij48L3BhdGg+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAxIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMy4zIiBkPSJNMjMuNzgzLDIyLjM1MnY5LjgxOSBjMCwzLjc2NC00LjM4LDQuMDIyLTYuMjgzLDAuODAyIj48L3BhdGg+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAxIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMy4zIiBkPSJNMzQuNjksMjUuMzQzIGMtMS43MzktMi43MjctNS42NzQtMi4zNDUtNS44NCwwLjU1OGMtMC4yMTQsMy43NTcsNi43NjgsMi45MzgsNi4yNDcsNy4xMDdjLTAuMzY1LDIuOTItNC44NzQsMy44NTgtNy4xOTMtMC4wNjUiPjwvcGF0aD48L3N2Zz4="/>
 
   <h3><strong>📫 HOW TO REACH ME</strong></h3>
   <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
