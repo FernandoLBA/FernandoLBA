@@ -40,14 +40,14 @@ const myStack = {
 <h2><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h2>
 <img src="./img/stack.png" alt="Stack" width="100%"/>
 
-<h2><strong>:code: INDIVIDUAL FULLSTACK PROJECT (COUNTRIES)</strong></h2>
+<h2><strong>💼 INDIVIDUAL FULLSTACK PROJECT (COUNTRIES)</strong></h2>
 <img src="./img/landing.png" alt="landing"/>
-<img src="./img/loading" alt="loading"/>
+<img src="./img/loading.png" alt="loading"/>
 <img src="./img/home.png" alt="home"/>
 <img src="./img/country-details.png" alt="country-details"/>
 <img src="./img/create.png" alt="create"/>
 
-<h2><strong>SEE PROJECT ON VIDEO</strong></h2>
+<h4><strong>SEE PROJECT ON VIDEO</strong></h4>
 <a href="https://youtu.be/z0PxtOxrJWg" alt="countries-youtube" target="_blank"><img src="./img/youtube.png" height="20"/></a>
 <a href="https://vimeo.com/user158728760/review/668887098/b0214389f8" alt="countries-vimeo" target="_blank"><img src="./img/vimeo.png" height="25"/></a>
 
