@@ -43,49 +43,49 @@ const myStack = {
 
 <div> 
   <h3><strong>🛠 LANGUAGES AND TECHNOLOGIES STACK</strong></h3>
-  <div style="display: flex; justify-content: space-between; background: black; padding: 20px">
+  <div style="display: flex; justify-content: space-between; background-color: black; padding: 20px">
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <p style="color: dodgerblue;">JavaScript</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <p style="color: dodgerblue;">HTML</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <p style="color: dodgerblue;">CSS</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <p style="color: dodgerblue;">React</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Redux" height="30" width="40" src="./img/redux-original.svg">
+      <img align="center" alt="Redux" height="30" src="./img/redux-original.svg">
       <p style="color: dodgerblue;">Redux</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Node" height="30" width="40" src="./img/nodejs-original.svg">
+      <img align="center" alt="Node" height="30" src="./img/nodejs-original.svg">
       <p style="color: dodgerblue;">Node</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Express" height="30" width="40" src="./img/expressjs.svg">
+      <img align="center" alt="Express" height="30" src="./img/expressjs.svg">
       <p style="color: dodgerBlue">Express</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Sequelize" height="30" width="40" src="./img/sequelize-original.svg">
+      <img align="center" alt="Sequelize" height="30" src="./img/sequelize-original.svg">
       <p style="color: dodgerblue;">Sequelize</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Postgres" height="30" width="40" src="./img/postgresql-original.svg">
+      <img align="center" alt="Postgres" height="30" src="./img/postgresql-original.svg">
       <p style="color: dodgerblue;">Postgres</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img align="center" alt="Jest" height="30" width="40" src="./img/jest-plain.svg">
+      <img align="center" alt="Jest" height="30" src="./img/jest-plain.svg">
       <p style="color: dodgerblue;">Jest</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./img/git.png" alt="Git" height="30" width="40"/>
+      <img src="./img/git.png" alt="Git" height="30" />
       <p style="color: dodgerblue;">Git</p>
     </div>
     <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
