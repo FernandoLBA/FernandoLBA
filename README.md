@@ -41,11 +41,21 @@ const myStack = {
 <img src="./img/stack.png" alt="Stack" width="100%"/>
 
 <h2><strong>🚀 INDIVIDUAL FULLSTACK PROJECT (COUNTRIES)</strong></h2>
+<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">
 <img src="./img/landing.png" alt="landing"/>
+</a>
+<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">
 <img src="./img/loading.png" alt="loading"/>
+</a>
+<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">
 <img src="./img/home.png" alt="home"/>
+</a>
+<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">
 <img src="./img/country-details.png" alt="country-details"/>
+</a>
+<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">
 <img src="./img/create.png" alt="create"/>
+</a>
 
 <h2><strong>📹 SEE COUNTRIES PROJECT ON VIDEO</strong></h2>
 <a href="https://youtu.be/z0PxtOxrJWg" alt="countries-youtube" target="_blank"><img src="./img/youtube.png" height="20"/></a>
