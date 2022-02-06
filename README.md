@@ -58,8 +58,7 @@ const myStack = {
 </a>
 
 <h2><strong>:link: VISIT COUNTRIES PROJECT ONLINE</strong></h2>
-<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">Countries deployed</a>
-
+<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">Click here</a>
 
 <h2><strong>📹 SEE COUNTRIES PROJECT ON VIDEO</strong></h2>
 <a href="https://youtu.be/z0PxtOxrJWg" alt="countries-youtube" target="_blank"><img src="./img/youtube.png" height="20"/></a>
