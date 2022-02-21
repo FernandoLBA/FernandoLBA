@@ -17,7 +17,7 @@ const myStack = {
       backEnd: {
         javascript: ["Node", "Express", "Sequelize"],
       },
-      databases: ["PostgreSQL"],
+      databases: ["PostgreSQL", "Mongo"],
     },
     {
       Others: {
@@ -32,7 +32,7 @@ const myStack = {
 ```
 
 - 🔭 I’m currently working on a <strong>Ecommerce Fullstack Project...</strong>
-- 🌱 I’m currently learning <strong>Material UI</strong> for the Frontend...
+- 🌱 I’m currently learning <strong>TypeScript and Angular</strong> for the Frontend...
 - 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
 - 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">See more about me</a>
