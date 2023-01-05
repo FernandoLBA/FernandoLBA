@@ -5,35 +5,40 @@
 
 ```javascript
 const myStack = {
-  code: ["Javascript", "HTML", "CSS", "Java"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Java"],
   technologies: [
     {
       frontEnd: {
-        javascript: ["React", "Redux"],
-        css: ["Styled Components", "CSS Modules"],
+        javaScript: ["React", "Redux ToolKit", "Formik"],
+        typeScript: ["React", "NextJS"],
+        css: ["MUI", "Styled Components", "CSS Modules"],
       },
     },
     {
       backEnd: {
-        javascript: ["Node", "Express", "Sequelize"],
+        javaScript: ["Node", "Express", "Sequelize"],
+        typeScript: ["Node", "NestJS", "TypeORM"]
       },
-      databases: ["PostgreSQL", "Mongo"],
+      relationalDatabases: ["PostgreSQL", "MySQL"],
+      noRelationalsDataBase: ["Mongo"],
     },
     {
       Others: {
+        containers: ["Docker"],
         prototyping: ["Figma", "Adobe XD"],
         design: ["Adobe Illustrator", "Photoshop"],
       },
     },
   ],
-  currentStatus: ["✨Looking for a Job✨"],
+  currentStatus: ["✨ Open to new opportunities and challenges ✨"],
   locationPreferences: ["✨Fully Remote✨"],
 };
 ```
 
-- 🔭 I’m currently working on a <strong>Ecommerce Fullstack Project...</strong>
-- 🌱 I’m currently learning <strong>TypeScript and Angular</strong> for the Frontend...
-- 💬 Ask me about <strong>JavaScript, HTML, CSS, Styled Components, React, Redux, Node, Express, Sequelize, Postgres...</strong>
+- 🛫 I’m currently working on a <strong>Customs Project (JavaScript, ReactJs, Redux Toolkit, Formik...)</strong>
+- ⏲ I’m currently working on a <strong>Working time administrator Project (TypeScript, ReactJs, NextJs, Redux Toolkit, RxJs...)</strong>
+- 🌱 I’m currently learning <strong>TypeScript with NextJS</strong> for the Frontend, and <strong>NestJS</strong> for the backend...
+- 💬 Ask me about <strong>JavaScript, HTML, CSS, MUI, Styled Components, React, Redux toolkit, Node, Express, Sequelize, Postgres...</strong>
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
 - 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">See more about me</a>
 
