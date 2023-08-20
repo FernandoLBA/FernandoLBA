@@ -35,7 +35,7 @@ const myStack = {
 };
 ```
 
-- 🛫 I’m currently working in a <strong>Customs/Airlines Project  using this technologies: JavaScript, ReactJs, Redux Toolkit, Formik...</strong> for a company from Chile, as a Frontend Developer.
+- 🛫 I’m currently working in a <strong>Customs/Airlines Project  using this technologies: JavaScript, TypeScript, ReactJs, Redux Toolkit, Formik...</strong> for a company from Chile, as a Frontend Developer.
 - 🌱 I’m currently learning <strong>TypeScript with NextJS</strong> for the Frontend, and <strong>Hexagonal Architecture</strong> for the backend...
 - 💬 Ask me about <strong>JavaScript, HTML, CSS, MUI, React, Redux toolkit, Node, Express, Sequelize, Postgres...</strong>
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
