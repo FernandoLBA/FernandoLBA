@@ -5,12 +5,12 @@
 
 ```javascript
 const myStack = {
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  technologies: {
+  CODE: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  TECHNOLOGIES: {
     FRONTEND: {
         javaScript: ["React", "Redux ToolKit"],
         typeScript: ["React", "NextJS"],
-        css: ["MUI", "Tailwind", "Styled Components", "CSS"],
+        css: ["MUI", "Tailwind", "BootStrap", "Styled Components", "CSS"],
       },
     },
     BACKEND: {
@@ -29,8 +29,9 @@ const myStack = {
       design: ["Adobe Illustrator", "Photoshop"],
       scrum: ["Jira", "Trello"],
     },
-    CURRENT_STATUS: ["✨ Open to new opportunities and challenges ✨"],
-    WORK_PREFERENCES: ["✨Fully Remote✨"],
+  },
+  CURRENT_STATUS: ["✨ Open to new opportunities and challenges ✨"],
+  WORK_PREFERENCES: ["✨Fully Remote✨"],
 };
 ```
 
