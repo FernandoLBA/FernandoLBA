@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EB36&size=40&vCenter=true&width=600&height=80&lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!)](https://fernando-barrios.netlify.app/)
 
 <h2><strong>:star: ABOUT ME</strong></h2>
-<p><strong>I am a Full-Stack Developer with Frontend oriantation</strong>, I have  <strong>3 years of experience in the Development of Web APPs, Prototyping, Designing User Interfaces and coding for the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
+<p><strong>I am a Full-Stack Developer with Frontend oriantation</strong>, I have  <strong>4 years of experience in the Development of Web APPs, Prototyping, Designing User Interfaces and coding for the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
 
 ```javascript
 const myStack = {
@@ -15,7 +15,7 @@ const myStack = {
     },
     BACKEND: {
       javaScript: ["Node", "Express", "Sequelize"],
-      typeScript: ["Node", "NestJS", "TypeORM"],
+      typeScript: ["Node", "Express", "NestJS", "TypeORM"],
     },
     DATABASES: {
       relational: ["PostgreSQL", "MySQL"],
@@ -35,7 +35,7 @@ const myStack = {
 };
 ```
 
-- 🛫 I’m currently working in a <strong>Customs/Airlines Project  using this technologies: JavaScript, TypeScript, ReactJs, Redux Toolkit, Formik...</strong> for a company from Chile, as a Frontend Developer.
+- 🛫 I’m currently working in a <strong>Customs/Airlines Project  using this technologies: JavaScript, ReactJs, Redux Toolkit, Formik, Node Js, express...</strong> for a company from Chile, as a Consultant.
 - 🌱 I’m currently learning <strong>TypeScript with NextJS</strong> for the Frontend, and <strong>Hexagonal Architecture</strong> for the backend...
 - 💬 Ask me about <strong>JavaScript, HTML, CSS, MUI, React, Redux toolkit, Node, Express, Sequelize, Postgres...</strong>
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
