@@ -36,7 +36,7 @@ const myStack = {
 ```
 
 - 🛫 I’m currently working in a <strong>Customs/Airlines Project  using this technologies: JavaScript, ReactJs, Redux Toolkit, Formik, Node Js, express...</strong> for a company from Chile, as a Consultant. Also I am collaborating as Full Stack developer in a Colombian Startup using this technologies: TypeScript, React, Next, Tailwind, CSS, Node, Express, PostgreSql.
-- 🌱 I’m currently improving my knowledge on <strong>NextJS</strong> for the Frontend, and <strong>Hexagonal Architecture</strong> for the backend...
+- 🌱 I’m currently improving my knowledge on <strong>English</strong>, <strong>NextJS</strong> for the Frontend, and <strong>Hexagonal Architecture</strong> for the backend...
 - 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies and startups, technical support and administration, which have given me not only experience but discipline at work.
 - 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">See more about me</a>
 
@@ -77,8 +77,6 @@ const myStack = {
 
 <h2>:eyes: HOW MANY VISITS I HAVE</h2>
 <p align="left"><img src="https://profile-counter.glitch.me/{fernandobarrios}/count.svg" alt="Fernando Barrios :: Visitor's Count" /></p>
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandolba&show_icons=true&theme=great-gatsby)
 
