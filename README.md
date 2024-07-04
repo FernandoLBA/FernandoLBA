@@ -14,12 +14,12 @@ const myStack = {
       },
     },
     BACKEND: {
-      javaScript: ["Node", "Express", "Sequelize"],
-      typeScript: ["Node", "Express", "NestJS", "TypeORM"],
+      javaScript: ["Node", "Express", "Prisma", "TypeORM", "Sequelize"],
+      typeScript: ["Node", "Express", "NestJS", "TypeORM", "Prisma", ],
     },
     DATABASES: {
       relational: ["PostgreSQL", "MySQL"],
-      nonRelational: ["MongoDB"],
+      nonRelational: ["Firebase", "MongoDB"],
     },
     OS: ["Mac", "Windows"],
     OTHERS: {
@@ -35,10 +35,9 @@ const myStack = {
 };
 ```
 
-- 🛫 I’m currently working in a <strong>Customs/Airlines Project  using this technologies: JavaScript, ReactJs, Redux Toolkit, Formik, Node Js, express...</strong> for a company from Chile, as a Consultant.
-- 🌱 I’m currently learning <strong>TypeScript with NextJS</strong> for the Frontend, and <strong>Hexagonal Architecture</strong> for the backend...
-- 💬 Ask me about <strong>JavaScript, HTML, CSS, MUI, React, Redux toolkit, Node, Express, Sequelize, Postgres...</strong>
-- 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies, technical support and administration, which have given me not only experience but discipline at work.
+- 🛫 I’m currently working in a <strong>Customs/Airlines Project  using this technologies: JavaScript, ReactJs, Redux Toolkit, Formik, Node Js, express...</strong> for a company from Chile, as a Consultant. Also I am collaborating as Full Stack developer in a Colombian Startup using this technologies: TypeScript, React, Next, Tailwind, CSS, Node, Express, PostgreSql.
+- 🌱 I’m currently improving my knowledge on <strong>NextJS</strong> for the Frontend, and <strong>Hexagonal Architecture</strong> for the backend...
+- 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies and startups, technical support and administration, which have given me not only experience but discipline at work.
 - 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">See more about me</a>
 
 <h2><strong>💻 LANGUAGES AND TECHNOLOGIES STACK</strong></h2>
