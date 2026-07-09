@@ -1,25 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EB36&size=40&vCenter=true&width=600&height=80&lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!)](https://fernando-barrios.netlify.app/)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EB36&size=40&vCenter=true&width=600&height=80&lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Full+Stack+%2F+Frontend+Developer;Welcome+to+my+repo!)](https://fernando-barrios.netlify.app/)
 
-<h2><strong>⭐ SOBRE MÍ</strong></h2>
+<h2><strong>⭐ ABOUT ME</strong></h2>
 
 <p>
-Soy <strong>Full Stack Developer con orientación Frontend</strong>, con <strong>+6 años de experiencia</strong> desarrollando aplicaciones web, desde el diseño de interfaces hasta la arquitectura de sistemas backend completos. He trabajado como consultor y coordinador frontend en proyectos para empresas de <strong>Perú, Chile, Colombia, Argentina y Uruguay</strong>, liderando equipos y tomando decisiones técnicas de punta a punta.
+I'm a <strong>Full Stack Developer with a Frontend focus</strong>, with <strong>6+ years of experience</strong> building web applications, from interface design to full backend system architecture. I've worked as a consultant and frontend coordinator on projects for companies across <strong>Peru, Chile, Colombia, Argentina, and Uruguay</strong>, leading teams and making end-to-end technical decisions.
 </p>
 
 <p>
-Actualmente busco una <strong>posición Senior Frontend o Full Stack</strong> donde pueda aportar experiencia en arquitectura de producto, mentoría técnica y desarrollo end-to-end. Me defino como una persona <strong>resolutiva, orientada al detalle y con enfoque en construir productos escalables y bien pensados</strong>, no solo código que funciona.
+I'm currently looking for a <strong>Senior Frontend or Full Stack role</strong> where I can bring experience in product architecture, technical mentorship, and end-to-end development. I see myself as <strong>resourceful, detail-oriented, and focused on building scalable, well-thought-out products</strong> — not just code that works.
 </p>
 
 ```javascript
 const fernando = {
   role: "Full Stack Developer | Frontend-oriented",
   experience: "6+ years",
-  location: "Lima, Perú 🇵🇪",
+  location: "Lima, Peru 🇵🇪",
   currentlyBuilding: [
-    "SaaS de gestión de clínicas médicas (multi-tenant, NestJS + Prisma)",
-    "Prostore — e-commerce con i18n, NextAuth v5, App Router",
+    "Medical clinic management SaaS (multi-tenant, NestJS + Prisma)",
+    "Prostore — e-commerce with i18n, NextAuth v5, App Router",
   ],
   stack: {
     frontend: {
@@ -40,23 +38,23 @@ const fernando = {
     devops: ["Docker", "Vercel", "Railway", "CI/CD (GitHub Actions)"],
     tools: ["Git", "GitHub", "Figma", "Jira", "Trello"],
   },
-  softSkills: ["Liderazgo técnico", "Resolución de problemas", "Comunicación clara", "Mentoría"],
-  status: "✨ Abierto a nuevas oportunidades — Senior Frontend / Full Stack ✨",
-  workMode: "✨ Remoto ✨",
+  softSkills: ["Technical leadership", "Problem solving", "Clear communication", "Mentorship"],
+  status: "✨ Open to new opportunities — Senior Frontend / Full Stack ✨",
+  workMode: "✨ Remote ✨",
 };
 ```
 
-- 🏥 Actualmente diseñando y desarrollando desde cero un **SaaS de gestión clínica** (multi-sede, historia clínica digital, recetas, farmacia con control de lotes FEFO, laboratorio y citas), con **NestJS, Prisma y PostgreSQL** sobre una arquitectura multi-tenant.
-- 🛒 Trabajando en **Prostore**, un proyecto e-commerce personal con **Next.js**, internacionalización (`next-intl`), autenticación con **NextAuth v5** y despliegue en Vercel — mi laboratorio para explorar patrones de arquitectura moderna.
-- 💼 Experiencia previa como **Coordinador Frontend** en proyectos nearshore y como **Consultor Full Stack**, liderando desarrollo para clientes en LATAM (retail, aduanas/aerolíneas, startups).
-- 🌱 Profundizando en **arquitectura de software (C4 model, diagramas de sistema)**, **testing** y **CI/CD**, además de seguir mejorando mi inglés técnico.
-- 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">Conoce más sobre mí</a>
+- 🏥 Currently designing and building a **medical clinic management SaaS** from scratch (multi-location, digital clinical history, e-prescriptions, pharmacy with FEFO batch/lot control, lab orders, and appointment booking), using **NestJS, Prisma, and PostgreSQL** on a multi-tenant architecture.
+- 🛒 Working on **Prostore**, a personal e-commerce project with **Next.js**, internationalization (`next-intl`), **NextAuth v5** authentication, and Vercel deployment — my playground for exploring modern architecture patterns.
+- 💼 Previous experience as a **Frontend Coordinator** on nearshore projects and as a **Full Stack Consultant**, leading development for clients across LATAM (retail, customs/airlines, startups).
+- 🌱 Currently deepening my knowledge of **software architecture (C4 model, system diagrams)**, **testing**, and **CI/CD**, while continuing to sharpen my technical English.
+- 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">Learn more about me</a>
 
 <h2><strong>📊 GitHub Stats</strong></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
 
 <h2><strong>📫 HOW TO REACH ME</strong></h2>
