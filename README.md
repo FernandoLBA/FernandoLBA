@@ -3,7 +3,7 @@
 <h2><strong>⭐ ABOUT ME</strong></h2>
 
 <p>
-I'm a <strong>Full Stack Developer with a Frontend focus</strong>, with <strong>6+ years of experience</strong> building web applications, from interface design to full backend system architecture. I've worked as a consultant and frontend coordinator on projects for companies across <strong>Peru, Chile, Colombia, Argentina, and Uruguay</strong>, leading teams and making end-to-end technical decisions.
+I'm a <strong>Full Stack Developer with a Frontend focus</strong>, with <strong>6+ years of experience</strong> building web applications, from interface design to full backend system architecture. I've worked as a consultant and frontend coordinator on projects for companies and startups across <strong>Peru, Chile, Colombia, Argentina, and Uruguay</strong>, leading teams and making end-to-end technical decisions.
 </p>
 
 <p>
