@@ -1,71 +1,63 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EB36&size=40&vCenter=true&width=600&height=80&lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Welcome+to+my+repo!)](https://fernando-barrios.netlify.app/)
 
-<h2><strong>:star: ABOUT ME</strong></h2>
-<p><strong>I am a Full-Stack Developer with Frontend oriantation</strong>, I have  <strong>4 years of experience in the Development of Web APPs, Prototyping, Designing User Interfaces and coding for the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EB36&size=40&vCenter=true&width=600&height=80&lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Full+Stack+%2F+Frontend+Developer;Welcome+to+my+repo!)](https://fernando-barrios.netlify.app/)
+
+<h2><strong>⭐ SOBRE MÍ</strong></h2>
+
+<p>
+Soy <strong>Full Stack Developer con orientación Frontend</strong>, con <strong>+6 años de experiencia</strong> desarrollando aplicaciones web, desde el diseño de interfaces hasta la arquitectura de sistemas backend completos. He trabajado como consultor y coordinador frontend en proyectos para empresas de <strong>Perú, Chile, Colombia, Argentina y Uruguay</strong>, liderando equipos y tomando decisiones técnicas de punta a punta.
+</p>
+
+<p>
+Actualmente busco una <strong>posición Senior Frontend o Full Stack</strong> donde pueda aportar experiencia en arquitectura de producto, mentoría técnica y desarrollo end-to-end. Me defino como una persona <strong>resolutiva, orientada al detalle y con enfoque en construir productos escalables y bien pensados</strong>, no solo código que funciona.
+</p>
 
 ```javascript
-const myStack = {
-  CODE: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  TECHNOLOGIES: {
-    FRONTEND: {
-        javaScript: ["React", "Redux ToolKit"],
-        typeScript: ["React", "NextJS"],
-        css: ["MUI", "Tailwind", "BootStrap", "Styled Components", "CSS"],
-      },
+const fernando = {
+  role: "Full Stack Developer | Frontend-oriented",
+  experience: "6+ years",
+  location: "Lima, Perú 🇵🇪",
+  currentlyBuilding: [
+    "SaaS de gestión de clínicas médicas (multi-tenant, NestJS + Prisma)",
+    "Prostore — e-commerce con i18n, NextAuth v5, App Router",
+  ],
+  stack: {
+    frontend: {
+      core: ["React", "Next.js", "TypeScript", "JavaScript"],
+      state: ["Redux Toolkit", "Zustand", "TanStack Query"],
+      styling: ["Tailwind CSS", "MUI", "Shadcn/Radix UI", "Styled Components"],
     },
-    BACKEND: {
-      javaScript: ["Node", "Express", "Prisma", "TypeORM", "Sequelize"],
-      typeScript: ["Node", "Express", "NestJS", "TypeORM", "Prisma", ],
+    backend: {
+      node: ["Node.js", "NestJS", "Express"],
+      orm: ["Prisma", "TypeORM"],
+      architecture: ["Modular Monolith", "Hexagonal Architecture", "Multi-tenancy"],
     },
-    DATABASES: {
+    databases: {
       relational: ["PostgreSQL", "MySQL"],
-      nonRelational: ["Firebase", "MongoDB"],
+      nonRelational: ["MongoDB", "Firebase"],
+      cache: ["Redis"],
     },
-    OS: ["Mac", "Windows"],
-    OTHERS: {
-      versioning: ["Git", "GitHub"],
-      containers: ["Docker"],
-      prototyping: ["Figma", "Adobe XD"],
-      design: ["Adobe Illustrator", "Photoshop"],
-      scrum: ["Jira", "Trello"],
-    },
+    devops: ["Docker", "Vercel", "Railway", "CI/CD (GitHub Actions)"],
+    tools: ["Git", "GitHub", "Figma", "Jira", "Trello"],
   },
-  CURRENT_STATUS: ["✨ Open to new opportunities and challenges ✨"],
-  WORK_PREFERENCES: ["✨Fully Remote✨"],
+  softSkills: ["Liderazgo técnico", "Resolución de problemas", "Comunicación clara", "Mentoría"],
+  status: "✨ Abierto a nuevas oportunidades — Senior Frontend / Full Stack ✨",
+  workMode: "✨ Remoto ✨",
 };
 ```
 
-- 🛫 I’m currently working in a <strong>Customs/Airlines Project  using this technologies: JavaScript, ReactJs, Redux Toolkit, Formik, Node Js, express...</strong> for a company from Chile, as a Consultant. Also I am collaborating as Full Stack developer in a Colombian Startup using this technologies: TypeScript, React, Next, Tailwind, CSS, Node, Express, PostgreSql.
-- 🌱 I’m currently improving my knowledge on <strong>English</strong>, <strong>NextJS</strong> for the Frontend, and <strong>Hexagonal Architecture</strong> for the backend...
-- 💼 During my working life I have worked with teams in areas of sales systems consulting and administrative management for companies and startups, technical support and administration, which have given me not only experience but discipline at work.
-- 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">See more about me</a>
+- 🏥 Actualmente diseñando y desarrollando desde cero un **SaaS de gestión clínica** (multi-sede, historia clínica digital, recetas, farmacia con control de lotes FEFO, laboratorio y citas), con **NestJS, Prisma y PostgreSQL** sobre una arquitectura multi-tenant.
+- 🛒 Trabajando en **Prostore**, un proyecto e-commerce personal con **Next.js**, internacionalización (`next-intl`), autenticación con **NextAuth v5** y despliegue en Vercel — mi laboratorio para explorar patrones de arquitectura moderna.
+- 💼 Experiencia previa como **Coordinador Frontend** en proyectos nearshore y como **Consultor Full Stack**, liderando desarrollo para clientes en LATAM (retail, aduanas/aerolíneas, startups).
+- 🌱 Profundizando en **arquitectura de software (C4 model, diagramas de sistema)**, **testing** y **CI/CD**, además de seguir mejorando mi inglés técnico.
+- 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">Conoce más sobre mí</a>
 
-<h2><strong>💻 LANGUAGES AND TECHNOLOGIES STACK</strong></h2>
-<img src="./img/stack.png" alt="Stack" width="100%"/>
+<h2><strong>📊 GitHub Stats</strong></h2>
 
-<h2><strong>🚀 INDIVIDUAL FULLSTACK PROJECT (COUNTRIES)</strong></h2>
-<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">
-<img src="./img/landing.png" alt="landing"/>
-</a>
-<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">
-<img src="./img/loading.png" alt="loading"/>
-</a>
-<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">
-<img src="./img/home.png" alt="home"/>
-</a>
-<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">
-<img src="./img/country-details.png" alt="country-details"/>
-</a>
-<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">
-<img src="./img/create.png" alt="create"/>
-</a>
-
-<h2><strong>:link: VISIT COUNTRIES PROJECT ONLINE</strong></h2>
-<a href="https://pi-countries-main-hngxhbnnt-techcommerce.vercel.app/" alt="countries-web" target="_blank">Click here</a>
-
-<h2><strong>📹 SEE COUNTRIES PROJECT ON VIDEO</strong></h2>
-<a href="https://youtu.be/z0PxtOxrJWg" alt="countries-youtube" target="_blank"><img src="./img/youtube.png" height="20"/></a>
-<a href="https://vimeo.com/user158728760/review/668887098/b0214389f8" alt="countries-vimeo" target="_blank"><img src="./img/vimeo.png" height="25"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub Streak" />
+</p>
 
 <h2><strong>📫 HOW TO REACH ME</strong></h2>
 <div>
