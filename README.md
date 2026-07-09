@@ -56,18 +56,3 @@ const fernando = {
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
-
-<h2><strong>📫 HOW TO REACH ME</strong></h2>
-<div>
-  <a href = "mailto:fbarrios.pyc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<h2>:pushpin: NETWORKS</h2>
-<a href="https://www.linkedin.com/in/fernandolba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-<h2>:eyes: HOW MANY VISITS I HAVE</h2>
-<p align="left"><img src="https://profile-counter.glitch.me/{fernandobarrios}/count.svg" alt="Fernando Barrios :: Visitor's Count" /></p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandolba&show_icons=true&theme=great-gatsby)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/fernandolba/github-readme-stats)
