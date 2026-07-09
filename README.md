@@ -15,15 +15,11 @@ const fernando = {
   role: "Full Stack Developer | Frontend-oriented",
   experience: "6+ years",
   location: "Lima, Peru 🇵🇪",
-  currentlyBuilding: [
-    "Medical clinic management SaaS (multi-tenant, NestJS + Prisma)",
-    "Prostore — e-commerce with i18n, NextAuth v5, App Router",
-  ],
   stack: {
     frontend: {
       core: ["React", "Next.js", "TypeScript", "JavaScript"],
       state: ["Redux Toolkit", "Zustand", "TanStack Query"],
-      styling: ["Tailwind CSS", "MUI", "Shadcn/Radix UI", "Styled Components"],
+      styling: ["Tailwind CSS", "Bootstrap", "MUI", "Shadcn/Radix UI", "Styled Components"],
     },
     backend: {
       node: ["Node.js", "NestJS", "Express"],
@@ -36,7 +32,7 @@ const fernando = {
       cache: ["Redis"],
     },
     devops: ["Docker", "Vercel", "Railway", "CI/CD (GitHub Actions)"],
-    tools: ["Git", "GitHub", "Figma", "Jira", "Trello"],
+    tools: ["Git", "GitHub", "Figma", "Postman", "VsCode", "Notion", "Jira", "Trello"],
   },
   softSkills: ["Technical leadership", "Problem solving", "Clear communication", "Mentorship"],
   status: "✨ Open to new opportunities — Senior Frontend / Full Stack ✨",
@@ -44,8 +40,6 @@ const fernando = {
 };
 ```
 
-- 🏥 Currently designing and building a **medical clinic management SaaS** from scratch (multi-location, digital clinical history, e-prescriptions, pharmacy with FEFO batch/lot control, lab orders, and appointment booking), using **NestJS, Prisma, and PostgreSQL** on a multi-tenant architecture.
-- 🛒 Working on **Prostore**, a personal e-commerce project with **Next.js**, internationalization (`next-intl`), **NextAuth v5** authentication, and Vercel deployment — my playground for exploring modern architecture patterns.
 - 💼 Previous experience as a **Frontend Coordinator** on nearshore projects and as a **Full Stack Consultant**, leading development for clients across LATAM (retail, customs/airlines, startups).
 - 🌱 Currently deepening my knowledge of **software architecture (C4 model, system diagrams)**, **testing**, and **CI/CD**, while continuing to sharpen my technical English.
 - 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">Learn more about me</a>
