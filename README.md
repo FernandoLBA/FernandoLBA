@@ -1,45 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EB36&size=40&vCenter=true&width=600&height=80&lines=Hi,+Everyone!+👋;I+am+Fernando+Barrios;Full+Stack+%2F+Frontend+Developer;Welcome+to+my+repo!)](https://fernando-barrios.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7EB36&size=38&vCenter=true&width=700&height=70&lines=Hi,+I'm+Fernando+Barrios;Frontend-focused+Full+Stack+Developer;Open+to+Senior+Frontend+%2F+Full+Stack+roles)](https://github.com/FernandoLBA)
 
-<h2><strong>⭐ ABOUT ME</strong></h2>
+### About Me
 
-<p>
-I'm a <strong>Full Stack Developer with a Frontend focus</strong>, with <strong>6+ years of experience</strong> building web applications, from interface design to full backend system architecture. I've worked as a consultant and frontend coordinator on projects for companies and startups across <strong>Peru, Chile, Colombia, Argentina, and Uruguay</strong>, leading teams and making end-to-end technical decisions.
-</p>
+**Frontend-focused Full Stack Developer** with **5+ years of experience** building high-performance web applications.
 
-<p>
-I'm currently looking for a <strong>Senior Frontend or Full Stack role</strong> where I can bring experience in product architecture, technical mentorship, and end-to-end development. I see myself as <strong>resourceful, detail-oriented, and focused on building scalable, well-thought-out products</strong> — not just code that works.
-</p>
+I specialize in **React, Next.js and TypeScript**, with solid complementary skills in **Node.js and NestJS**. I’ve led frontend teams, improved Core Web Vitals by up to 30%, migrated complex microfrontend ecosystems (Webpack/NX → Vite), and delivered solutions in regulated industries across LATAM (insurance, air logistics, finance).
 
-```javascript
-const fernando = {
-  role: "Full Stack Developer | Frontend-oriented",
-  experience: "6+ years",
-  location: "Lima, Peru 🇵🇪",
-  stack: {
-    frontend: {
-      core: ["React", "Next.js", "TypeScript", "JavaScript"],
-      state: ["Redux Toolkit", "Zustand", "TanStack Query"],
-      styling: ["Tailwind CSS", "Bootstrap", "MUI", "Shadcn/Radix UI", "Styled Components"],
-    },
-    backend: {
-      node: ["Node.js", "NestJS", "Express"],
-      orm: ["Prisma", "TypeORM"],
-      architecture: ["Modular Monolith", "Hexagonal Architecture", "Multi-tenancy"],
-    },
-    databases: {
-      relational: ["PostgreSQL", "MySQL"],
-      nonRelational: ["MongoDB", "Firebase"],
-      cache: ["Redis"],
-    },
-    devops: ["Docker", "Vercel", "Railway", "CI/CD (GitHub Actions)"],
-    tools: ["Git", "GitHub", "Figma", "Postman", "VsCode", "Notion", "Jira", "Trello"],
-  },
-  softSkills: ["Technical leadership", "Problem solving", "Clear communication", "Mentorship"],
-  status: "✨ Open to new opportunities — Senior Frontend / Full Stack ✨",
-  workMode: "✨ Remote ✨",
-};
-```
+#### Highlights
+- Led frontend teams of up to 5 developers
+- Optimized performance and enforced quality standards in critical payment experiences
+- Recognized with Softtek’s **Voice of the Customer (VOC)** award
+- Experience with Feature-Based Architecture, Microfrontends, Hexagonal Architecture and Clean Code
 
-- 💼 Previous experience as a **Frontend Coordinator** on nearshore projects and as a **Full Stack Consultant**, leading development for clients across LATAM (retail, customs/airlines, startups).
-- 🌱 Currently deepening my knowledge of **software architecture (C4 model, system diagrams)**, **testing**, and **CI/CD**, while continuing to sharpen my technical English.
-- 🤓 <a href="https://fernando-barrios.netlify.app/" target="_blank">Learn more about me</a>
+#### Tech Stack
+**Frontend:** React • Next.js • TypeScript • Redux Toolkit • Zustand • TanStack Query • Tailwind • Shadcn/UI  
+**Backend:** Node.js • NestJS • Express • Prisma • TypeORM  
+**Cloud & DevOps:** AWS • GCP • Docker • CI/CD  
+**Other:** PostgreSQL • Jest • Vitest
+
+Currently open to **Senior Frontend or Full Stack remote roles** in LATAM and the USA.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/fernandolba) · [Email](mailto:fbarrios.pyc@gmail.com)
